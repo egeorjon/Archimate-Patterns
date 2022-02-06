@@ -1,13 +1,13 @@
-# Standalone physical server for infrastructure application
+# Standalone physical server for application
 
 ## Description
-Standalone server, hosting an infrastructure application, providing an infrastructur service (like a database)
+Standalone server, hosting an application, providing a service (like a database, or an application)
 
 ## Contexte / Problem
-Provide an infrastructure application and/or an infrastructure service, with a server. No virtualization available
+Provide an application and/or a service, with a server. No virtualization available
 
 ## Solution
-Physical servers hosting the infrastructure application. Backup and monitoring are important for
+Physical servers hosting the application. Backup and monitoring are important for ensuring no data loss, and maximize the availability.
 
 ## Security
 
@@ -47,11 +47,13 @@ Not applicable
 
 ## Patterns
 
-![Detailed view](detailed_view.svg "Detailed view")
+![Pattern 1a: Detailed view for infrastructure application](std-physical-server-for-infrastructure-app-detailed.svg "Pattern 1a: Detailed view for infrastructure application")
 
-![Collapsed view](collapsed_view.svg "Collapsed view")
+![Pattern 1b: Collapsed view for infrastructure application](std-physical-server-for-infrastructure-app-collapsed.svg "Pattern 1b: Collapsed view for infrastructure application")
 
-![Collapsed / simplified view](collapsed_simplified_view.svg "Collapsed / simplified view")
+![Pattern 2a: Detailed view for application](std-physical-server-for-infrastructure-application-detailed.svg "Pattern 2a: Detailed view for application")
+
+![Pattern 2b: Collapsed view for application](std-physical-server-for-infrastructure-application-collapsed.svg "Pattern 2b: Collapsed view for application")
 
 ## Known use cases
 
