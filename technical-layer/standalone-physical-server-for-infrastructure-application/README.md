@@ -38,6 +38,14 @@ Low. Capacity can be increase on some components like the memory, or the disks, 
 
 Not applicable
 
+## Patterns
+
+![Detailed view](detailed_view.svg "Detailed view")
+
+![Collapsed view](collapsed_view.svg "Collapsed view")
+
+![Collapsed / simplified view](collapsed_simplified.svg "Collapsed / simplified view")
+
 ## Known use cases
 
 * No virtualization available,
