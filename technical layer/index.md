@@ -32,7 +32,7 @@ Not applicable
 
 ## Evolutivity
 
-Low. Capacity can be increase on some components like the memory, or the disks, but with constraints
+Low. Capacity can be increase on some components like the memory, or the disks, but with limitations, and constraints.
 
 ## Integrations
 
