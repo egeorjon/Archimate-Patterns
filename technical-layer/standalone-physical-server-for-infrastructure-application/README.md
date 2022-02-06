@@ -44,7 +44,7 @@ Not applicable
 
 ![Collapsed view](collapsed_view.svg "Collapsed view")
 
-![Collapsed / simplified view](collapsed_simplified.svg "Collapsed / simplified view")
+![Collapsed / simplified view](collapsed_simplified_view.svg "Collapsed / simplified view")
 
 ## Known use cases
 
