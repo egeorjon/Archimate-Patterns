@@ -13,16 +13,16 @@ Physical servers hosting the infrastructure application. Backup and monitoring a
 
 Standard security rules
 
-[x] Regular firmware upgrade,
-[x] Operating system security patching,
-[x] Application security patching,
-[x] No application running with the root access.
+* [x] Regular firmware upgrade,
+* [x] Operating system security patching,
+* [x] Application security patching,
+* [x] No application running with the root access.
 
 ## Robustness
 
-[x] Fault tolerance (*)
-[ ] Disaster recovery
-[ ] Fail-over
+* [x] Fault tolerance (*)
+* [ ] Disaster recovery
+* [ ] Fail-over
 
 (*) No fault tolerance can be provided except if some physical components like network interface, disks, ... are doubled
 
