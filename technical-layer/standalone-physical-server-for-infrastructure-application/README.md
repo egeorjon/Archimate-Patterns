@@ -20,11 +20,18 @@ Standard security rules
 
 ## Robustness
 
+In summary 
 * [x] Fault tolerance (*)
 * [ ] Disaster recovery
 * [ ] Fail-over
 
 (*) No fault tolerance can be provided except if some physical components like network interface, disks, ... are doubled
+
+| Parameter | Value |
+|----|----|
+| Overall availability | 99% |
+| RTO | 2 business days (with a standard support contract) |
+| RPO | 24 hours, with a daily backup<br />Small RPO with more frequent backup | 
 
 ## Performances
 
