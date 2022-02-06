@@ -51,9 +51,9 @@ Not applicable
 
 ![Pattern 1b: Collapsed view for infrastructure application](std-physical-server-for-infrastructure-app-collapsed.svg "Pattern 1b: Collapsed view for infrastructure application")
 
-![Pattern 2a: Detailed view for application](std-physical-server-for-infrastructure-application-detailed.svg "Pattern 2a: Detailed view for application")
+![Pattern 2a: Detailed view for application](std-physical-server-for-application-detailed.svg "Pattern 2a: Detailed view for application")
 
-![Pattern 2b: Collapsed view for application](std-physical-server-for-infrastructure-application-collapsed.svg "Pattern 2b: Collapsed view for application")
+![Pattern 2b: Collapsed view for application](std-physical-server-for-application-collapsed.svg "Pattern 2b: Collapsed view for application")
 
 ## Known use cases
 
