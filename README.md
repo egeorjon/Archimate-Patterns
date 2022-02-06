@@ -5,4 +5,4 @@ Publish Archimate Patterns
 
 | Pattern | Description |
 |--|--|
-| technical-layer/standalone-physical-server-for-infrastructure-application/detailed_view.svg | Standalone server for infrastructure application |
+| ![](technical-layer%20standalone-physical-server-for-infrastructure-application/detailed_view.svg) | Standalone server for infrastructure application |
