@@ -48,13 +48,15 @@ Not applicable
 
 ## Patterns
 
-![Pattern 1a: Detailed view for infrastructure application](images/std-physical-server-for-infrastructure-app-detailed.svg "Pattern 1a: Detailed view for infrastructure application")
+![Pattern T001a: Detailed view for infrastructure application](images/std-physical-server-for-infrastructure-app-detailed.svg "Pattern 1a: Detailed view for infrastructure application")
 
-![Pattern 1b: Collapsed view for infrastructure application](images/std-physical-server-for-infrastructure-app-collapsed.svg "Pattern 1b: Collapsed view for infrastructure application")
+![Pattern T001b: Collapsed view for infrastructure application](images/std-physical-server-for-infrastructure-app-collapsed.svg "Pattern 1b: Collapsed view for infrastructure application")
 
-![Pattern 2a: Detailed view for application](images/std-physical-server-for-application-detailed.svg "Pattern 2a: Detailed view for application")
+![Pattern T002a: Detailed view for application](images/std-physical-server-for-application-detailed.svg "Pattern 2a: Detailed view for application")
 
-![Pattern 2b: Collapsed view for application](images/std-physical-server-for-application-collapsed.svg "Pattern 2b: Collapsed view for application")
+![Pattern T002b: Collapsed view for application](images/std-physical-server-for-application-collapsed.svg "Pattern 2b: Collapsed view for application")
+
+![Pattern T003: Standalone server implementation](images/std-physical-server-implementation.svg "Pattern 3: Standalone server implementation")
 
 ## Known use cases
 
