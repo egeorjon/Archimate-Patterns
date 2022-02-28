@@ -3,16 +3,15 @@
 ## Description
 Standalone server, hosting an application, providing a service (like a database, or an application)
 
-## Contexte / Problem
+## Context / Problem
 Provide an application and/or a service, with a server. No virtualization available
 
 ## Solution
-Physical servers hosting the application. Backup and monitoring are important for ensuring no data loss, and maximize the availability.
+Physical server hosting the application. Backup and monitoring are important for ensuring no data loss, and maximize the availability.
 
 ## Security
 
 Standard security rules
-
 * [x] Regular firmware upgrade,
 * [x] Operating system security patching,
 * [x] Application security patching,
@@ -25,13 +24,15 @@ In summary
 * [ ] Disaster recovery
 * [ ] Fail-over
 
-(*) No fault tolerance can be provided except if some physical components like network interface, disks, ... are doubled
+*(\*) No fault tolerance can be provided except if some physical components like network interface, disks, ... are doubled
 
 | Parameter | Value |
 |----|----|
-| Overall availability | 99% |
+| Overall availability | 99% (\*) |
 | RTO | 2 business days (with a standard support contract) |
 | RPO | Worst case: 24 hours, with a daily backup<br />Small RPO with more frequent backup<br /> Significant improvement if the logs are stored outside of the server | 
+
+*(\*) Considering components redundancy.
 
 ## Performances
 
