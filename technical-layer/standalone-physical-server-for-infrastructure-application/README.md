@@ -20,11 +20,11 @@ Standard security rules
 ## Robustness
 
 In summary 
-* [x] Fault tolerance (*)
-* [ ] Disaster recovery
+* [x] Fault tolerance (\*)
 * [ ] Fail-over
+* [ ] Disaster recovery
 
-*(\*) No fault tolerance can be provided except if some physical components like network interface, disks, ... are doubled
+*(\*) By default, no fault tolerance is provided, except if we have components redundancy (some components like network interface, disks, ... can be doubled)
 
 | Parameter | Value |
 |----|----|
