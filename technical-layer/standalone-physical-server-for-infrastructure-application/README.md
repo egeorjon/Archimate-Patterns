@@ -29,7 +29,7 @@ In summary
 | Parameter | Value |
 |----|----|
 | Overall availability | 99% (\*) |
-| RTO | 2 business days (with a standard support contract) |
+| RTO | Depends on the support contract attached to the server. Consider 1 day as a minimum |
 | RPO | Worst case: 24 hours, with a daily backup<br />Small RPO with more frequent backup<br /> Significant improvement if the logs are stored outside of the server | 
 
 (\*) Considering components redundancy.
