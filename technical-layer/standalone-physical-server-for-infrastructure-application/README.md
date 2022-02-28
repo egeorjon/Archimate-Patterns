@@ -24,7 +24,7 @@ In summary
 * [ ] Fail-over
 * [ ] Disaster recovery
 
-*(\*) By default, no fault tolerance is provided, except if we have components redundancy (some components like network interface, disks, ... can be doubled)
+(\*) By default, no fault tolerance is provided, except if we have components redundancy (some components like network interface, disks, ... can be doubled)
 
 | Parameter | Value |
 |----|----|
@@ -32,7 +32,7 @@ In summary
 | RTO | 2 business days (with a standard support contract) |
 | RPO | Worst case: 24 hours, with a daily backup<br />Small RPO with more frequent backup<br /> Significant improvement if the logs are stored outside of the server | 
 
-*(\*) Considering components redundancy.
+(\*) Considering components redundancy.
 
 ## Performances
 
